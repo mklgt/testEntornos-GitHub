@@ -6,3 +6,6 @@ Esto es _cursiva_ y la negrita es **así**
 ![ITC CuatroVientos](http://cuatrov1-cp5028.wordpresstemporal.com/wp-content/uploads/2019/07/logo-cuatrovientos-2-1.png)
 
 Los bueno nombres de repositorios son cortos y fáciles de recordar
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mklgt)](https://github.com/anuraghazra/github-readme-stats)
+
